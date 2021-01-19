@@ -1,4 +1,4 @@
-## Maths and Data Modelling, Engineering Mathematics, University of Bristol
+## Maths and Data Modelling, Engineering Mathematics
 # Quartix Speeding Incident Accuracy Project
 ![](https://github.com/DozeyBot/False-Negative-speedAlertIds/blob/main/Birds%20Eye%20View%20Screenshots%20and%20Graphs/GeneratedDataRegionsMapNearLimeLaneRoundabout.png)
 
@@ -16,3 +16,7 @@ Python packages used:
 
 Finally attached is the [subset of all speeding fines](BadDataIDs) given that include what we have allocated as incorrectly flagged incidents. These IDs should not incur a fine as they are very likely false negatives
 ![](https://github.com/DozeyBot/False-Negative-speedAlertIds/blob/main/Birds%20Eye%20View%20Screenshots%20and%20Graphs/FinalBadPoints.png)
+
+3rd year Maths and Data Modelling module, 
+Engineering Mathematics, 
+University of Bristol
